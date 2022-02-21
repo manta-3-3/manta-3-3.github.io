@@ -1,0 +1,51 @@
+/* This is a CSS Comment */
+html {
+    font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+    background-color: #00539F;
+}
+
+header{
+    background-color: aliceblue;
+    text-align: center;
+}
+#tutLink{
+    color: #5552f8;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+  
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 10px solid black;
+}
+
+h1 {
+    margin: 5px 0;
+    padding: 10px 0px;
+    color: #00539F;
+    text-shadow: 7px 3px 3px black;
+    border: 10px solid blueviolet;
+    border-radius: 10%;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    padding: 0px 20px;
+    border: 5px solid black;
+    width: 75%;
+}
+  
